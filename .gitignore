@@ -1,0 +1,21 @@
+
+# Dependency directories
+node_modules/*
+dist/*
+
+# Optional npm cache directory
+.npm
+
+
+*.DS_Store
+
+# Output of 'npm pack'
+*.tgz
+
+
+# dotenv environment variables file
+.env
+
+# IDE files
+.vscode
+.idea
